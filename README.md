@@ -1,4 +1,4 @@
-# Control-And-Access
+# People-Management
     system for managing people in a company through a REST API, created with Spring Boot.
 
     
